@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ejercicio 02/2 - Tablas en HTML</title>
+    </head>
+    <body>
+        <h4>Libros favoritos</h4>
+        <table>
+            <tr>
+                <th>Título</th>
+                <th>Autor</th>
+                <th>Año de publicación</th>
+                <th>Enlace a Amazon</th>
+            </tr>
+            <tr>
+                <th>El juego de Ender</th>
+                <th>Orson Scott Card</th>
+                <th>2019</th>
+                <th>https://www.amazon.es/El-juego-Ender-Saga/dp/8490707898/ref=sr_1_1?hvadid=80401819906727&hvbmt=bb&hvdev=c&hvqmt=b&keywords=el+juego+de+ender+libro&qid=1663957360&sr=8-1</th>
+            </tr>
+            <tr>
+            <th>DragonBall Saga Freezer</th>
+            <th>Akira Toriyama</th>
+            <th>2010</th>
+            <th>https://www.amazon.es/Dragon-Ball-Color-Freezer-n%C2%BA/dp/8416051984/ref=sr_1_1?hvadid=80401820196695&hvbmt=bb&hvdev=c&hvqmt=b&keywords=dragon+ball+saga+freezer&qid=1663957503&sr=8-1</th>
+            </tr>
+            <tr>
+            <th>Mas allá de los sueños</th>
+            <th>Richard Matherson</th>
+            <th>2001</th>
+            <th>https://www.amazon.es/M%C3%A1s-all%C3%A1-sue%C3%B1os-Solaris-ficci%C3%B3n/dp/8498003296/ref=sr_1_2?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2EGSG64RHK08O&keywords=m%C3%A1s+all%C3%A1+de+los+sue%C3%B1os&qid=1663957642&sprefix=mas+alla+de+los+sue%C3%B1os%2Caps%2C110&sr=8-2</th>
+            </tr>
+        </table>
+    </body>
+</html>
